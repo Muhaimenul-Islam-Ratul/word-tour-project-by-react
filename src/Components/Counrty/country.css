@@ -1,0 +1,48 @@
+.country{
+    border: 2px solid #FFC300;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #003566 10%, #000814 100%);
+    
+}
+
+.county-name{
+    font-size:x-large;
+    font-weight: 400;
+    
+}
+.under-name{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px 0 5px;
+}
+.img-style{
+    height: 200px;
+    width: 320px;
+    
+}
+
+
+.button1{
+    background-color: #FCF300;
+    color: black;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+.button2{
+    background-color: #FCF300;
+    color: black;
+
+}
+
+.details-button{
+    margin-right: 10px;
+    background-color: #FCF300;
+    color: black;
+}
+.para-details{
+    font-weight: 500;
+    
+}
